@@ -2,9 +2,10 @@
 
 
 >Majoring Biology Education
->CS, Math, Physics, Statistics Self-taught
->No B.Sc. yet
 >
+>CS, Math, Physics, Statistics Self-taught
+>
+>No B.Sc. yet
 
 Languages
 =================
