@@ -1,23 +1,29 @@
 ## $\leqslant S_n$
 
 
+>Majoring Biology Education
+>CS, Math, Physics, Statistics Self-taught
+>No B.Sc. yet
+>
 
->CS: Self-taught
-
-# Languages
+Languages
+=================
 * Python
 * C++
 * LaTeX
 
-# Skills
+Skills
+=================
 * Linear Regression
 * Convolutional Neural Network
 * Basic Statistical Methods
 * Genetic Programming
 
-# Current Interests
+Current Interests
+=================
 * Computational Biology
 * Algebraic Biology
 * Application of Abstract Mathematical Methods on Biology
+* Physics on Biology
 * Tools for Education
 * Logic of Learning
