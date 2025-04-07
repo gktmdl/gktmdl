@@ -1,4 +1,4 @@
-## leqslantSn / $\leqslant S_n$
+## $\leqslant S_n$
 
 
 
