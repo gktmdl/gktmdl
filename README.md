@@ -1,16 +1,23 @@
 ## leqslantSn / $\leqslant S_n$
 
-<!--
-**gktmdl/gktmdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>CS: Self-taught
+
+# Languages
+* Python
+* C++
+* LaTeX
+
+# Skills
+* Linear Regression
+* Convolutional Neural Network
+* Basic Statistical Methods
+* Genetic Programming
+
+# Current Interests
+* Computational Biology
+* Algebraic Biology
+* Application of Abstract Mathematical Methods on Biology
+* Tools for Education
+* Logic of Learning
