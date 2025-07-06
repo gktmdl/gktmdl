@@ -16,14 +16,12 @@ Languages
 Skills
 =================
 * Linear Regression
-* Convolutional Neural Network
-* Basic Statistical Methods
-* Genetic Programming
+* Basic Data Science
+* Optimization
 
 Current Interests
 =================
 * Computational Biology
-* Algebraic Biology
 * Application of Abstract Mathematical Methods on Biology
 * Physics on Biology
 * Tools for Education
