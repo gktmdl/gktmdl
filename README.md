@@ -12,6 +12,7 @@ Languages
 * Python
 * C++
 * LaTeX
+* GDScript
 
 Skills
 =================
