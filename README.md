@@ -10,7 +10,7 @@
 Stats
 ================
 ![leqslantSn's GitHub stats](https://github-readme-stats.vercel.app/api?username=gktmdl&show_icons=true)
-![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gktmdl&layout=compact)
+![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gktmdl&layout=compact&count_private=true)
 
 Languages
 =================
