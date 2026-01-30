@@ -13,12 +13,14 @@ Languages
 * C++
 * LaTeX
 * GDScript
+* Shell
 
 Skills
 =================
 * Genetic Algorithm
 * Regression
-* Godot Engine 
+* Godot Engine
+* Linux
 
 Current Interests
 =================
