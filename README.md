@@ -20,7 +20,7 @@ Skills
 * Genetic Algorithm
 * Regression
 * Godot Engine
-* Linux
+* Arch Linux
 
 Current Interests
 =================
