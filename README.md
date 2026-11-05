@@ -30,6 +30,12 @@ Tools
 * JupyterLab
 * Overleaf
 
+Gears
+=================
+* Leopold FC980C
+* Keychron M6 SE
+* Keychron K10 Pro SE2 ZMK
+
 Current Interests
 =================
 * Stochastic Thermodynamics of Biological Systems
