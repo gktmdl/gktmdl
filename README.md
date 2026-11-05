@@ -2,10 +2,11 @@
 
 
 >Majoring Biology Education @snu
+>Soon Physics Education, Integrated Ms/PhD Student @snu
 >
->CS, Math, Physics, Statistics Self-taught
+>CS, Math, --Physics--, Statistics Self-taught
 >
->No B.Sc. yet
+>Soon B.Sc.
 
 Languages
 =================
@@ -15,15 +16,25 @@ Languages
 * GDScript
 * Shell
 
-Skills
+OS
 =================
-* Genetic Algorithm
-* Regression
-* Godot Engine
-* Arch Linux
+* Arch Linux w/ Hyprland
+* Windows
+
+Tools
+=================
+* Visual Studio Code
+* nano
+* foot(terminal)
+* JupyterLab
+* Overleaf
 
 Current Interests
 =================
-* Self-Adaptation
-* Functional Reactive Programming
-* Infometrics On Science Education
+* Stochastic Thermodynamics of Biological Systems
+* Synchronization of Biological Oscillators
+* Stochastic Modeling of Ecological Systems
+
+
+
+
