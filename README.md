@@ -4,7 +4,7 @@
 >Majoring Biology Education @snu
 >Soon Physics Education, Integrated Ms/PhD Student @snu
 >
->CS, Math, --Physics--, Statistics Self-taught
+>CS, Math, ~~Physics~~, Statistics Self-taught
 >
 >Soon B.Sc.
 
