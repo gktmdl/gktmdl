@@ -3,11 +3,11 @@
 
 >Majoring Biology Education @snu
 >
->Soon Physics Education, Integrated Ms/PhD Student @snu
+>Soon B.Sc.
+>
+>Soon Physics Education, Integrated M.s./Ph.D Student @snu
 >
 >CS, Math, ~~Physics~~, Statistics Self-taught
->
->Soon B.Sc.
 
 Languages
 =================
