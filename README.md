@@ -5,7 +5,7 @@
 >
 >Soon B.Sc.
 >
->Soon Physics Education, Integrated M.s./Ph.D Student @snu
+>Soon Physics Education, Integrated M.S./Ph.D Student @snu
 >
 >CS, Math, ~~Physics~~, Statistics Self-taught
 
