@@ -16,6 +16,7 @@ Languages
 * LaTeX
 * GDScript
 * Shell
+* Lua(Soon for my Hyprland 0.57)
 
 OS
 =================
